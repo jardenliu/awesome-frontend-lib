@@ -14,8 +14,7 @@
   ### UI Utilities
   - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) It is written with an aim to lazy load images, iframes, ads, videos or any other element
   - [draggable](https://github.com/Shopify/draggable) The JavaScript Drag & Drop library your grandparents warned you about
-  
-  
+  - [better-scroll](https://github.com/Shopify/draggable)  inspired by iscroll, and it supports more features and has a better scroll perfermance
 
 ## bundler
  - [Webpack](https://github.com/webpack/webpack) webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
