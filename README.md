@@ -13,6 +13,8 @@
 ## Components && Librarys
   ### UI Utilities
   - [lozad.js](https://github.com/ApoorvSaxena/lozad.js) It is written with an aim to lazy load images, iframes, ads, videos or any other element
+  - [draggable](https://github.com/Shopify/draggable) The JavaScript Drag & Drop library your grandparents warned you about
+  
   
 
 ## bundler
