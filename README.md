@@ -4,7 +4,7 @@
 [中文](https://github.com/jardenliu/awesome-frontend-lib/blob/master/README_zh-CN.md)
 
     
-## Framework
+## Frameworks
   ### MVVC
   - [VUEJS](https://github.com/vuejs/vue)
   
@@ -16,7 +16,7 @@
   - [draggable](https://github.com/Shopify/draggable) The JavaScript Drag & Drop library your grandparents warned you about
   - [better-scroll](https://github.com/Shopify/draggable)  inspired by iscroll, and it supports more features and has a better scroll perfermance
   
-  ### Animation
+  ### Animations
   - [anime.js](https://github.com/juliangarnier/anime) It is a lightweight JavaScript animation library. It works with any CSS Properties, individual CSS transforms, SVG or any DOM attributes, and JavaScript Objects.
   - [animate.css](https://github.com/daneden/animate.css)  It is a bunch of cool, fun, and cross-browser animations for you to use in your projects
   - [popmotion](https://github.com/popmotion/popmotion) Simple libraries for delightful interfaces.
@@ -25,6 +25,16 @@
   - [csshake](https://github.com/elrumordelaluz/csshake)  Some CSS classes to move your DOM! 
   - [bounce.js](https://github.com/tictail/bounce.js)  Create beautiful CSS3 powered animations in no time.
   
-## bundler
+### Utilities
+  - [lodash](https://github.com/lodash/lodash) A modern JavaScript utility library delivering modularity, performance, & extras.
+  - [ramda](https://github.com/ramda/ramda) A practical functional library for JavaScript programmers.
+  - [immutable-js](https://github.com/facebook/immutable-js/) Immutable persistent data collections for Javascript which increase efficiency and simplicity.
+  - [mathjs](https://github.com/josdejong/mathjs) An extensive math library for JavaScript and Node.js
+  - [moment](https://github.com/moment/moment/) Parse, validate, manipulate, and display dates in javascript. 
+  - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library
+  - [Sugar](https://github.com/andrewplummer/Sugar) A Javascript library for working with native objects.
+   
+
+## bundlers
  - [Webpack](https://github.com/webpack/webpack) webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
  - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler
