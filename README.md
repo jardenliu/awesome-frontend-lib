@@ -33,7 +33,10 @@
   - [moment](https://github.com/moment/moment/) Parse, validate, manipulate, and display dates in javascript. 
   - [date-fns](https://github.com/date-fns/date-fns) Modern JavaScript date utility library
   - [Sugar](https://github.com/andrewplummer/Sugar) A Javascript library for working with native objects.
-   
+  - [lazy.jS](https://github.com/dtao/lazy.js)Lazy.js is a functional utility library for JavaScript, similar to Underscore and Lodash, but with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
+  - [collect.js](https://github.com/ecrmnn/collect.js/) Convenient and dependency free wrapper for working with arrays and objects
+  - [chancejs](https://github.com/chancejs/chancejs) Random generator helper for JavaScript
+  - [voca](https://github.com/panzerdp/voca) The ultimate JavaScript string library
 
 ## bundlers
  - [Webpack](https://github.com/webpack/webpack) webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
