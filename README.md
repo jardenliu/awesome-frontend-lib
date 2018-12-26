@@ -64,3 +64,4 @@
 ## bundlers
  - [Webpack](https://github.com/webpack/webpack) webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
  - [parcel](https://github.com/parcel-bundler/parcel) Blazing fast, zero configuration web application bundler
+ - [rollup](https://github.com/rollup/rollup) Next-generation ES module bundler 
