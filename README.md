@@ -9,6 +9,8 @@
   - [Vue.js](https://github.com/vuejs/vue) A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
   - [AngularJS](https://github.com/angular/angular.js) HTML enhanced for web apps!
   - [react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces.
+  - [HyperApp](https://github.com/jorgebucaran/hyperapp) 1 kB JavaScript micro-framework for building declarative web applications
+  - [preact](https://github.com/developit/preact) Fast 3kB React alternative with the same modern API. Components & Virtual DOM. 
   
 
 ## Components && Librarys
